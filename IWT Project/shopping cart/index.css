@@ -1,0 +1,18 @@
+/*S.S.Peduruarachchige 
+    IT21817212
+	 Internet and Web Technologies
+	 Final Project | Online Fashion store System*/
+
+.area{
+    margin-top: 80px;
+}
+
+.card{
+    
+    border-radius: 50px;
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+
+}
+
